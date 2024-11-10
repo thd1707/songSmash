@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		50C8473D2CE045A3006EEA0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C8473C2CE045A3006EEA0F /* AppDelegate.swift */; };
 		50C8473F2CE045A3006EEA0F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C8473E2CE045A3006EEA0F /* SceneDelegate.swift */; };
-		50C847412CE045A3006EEA0F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847402CE045A3006EEA0F /* ViewController.swift */; };
+		50C847412CE045A3006EEA0F /* menuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847402CE045A3006EEA0F /* menuViewController.swift */; };
 		50C847442CE045A3006EEA0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50C847422CE045A3006EEA0F /* Main.storyboard */; };
 		50C847462CE045A9006EEA0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50C847452CE045A9006EEA0F /* Assets.xcassets */; };
 		50C847492CE045A9006EEA0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50C847472CE045A9006EEA0F /* LaunchScreen.storyboard */; };
+		50C847512CE04BCB006EEA0F /* quizzViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847502CE04BCB006EEA0F /* quizzViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		50C847392CE045A3006EEA0F /* songSmash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = songSmash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50C8473C2CE045A3006EEA0F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		50C8473E2CE045A3006EEA0F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		50C847402CE045A3006EEA0F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		50C847402CE045A3006EEA0F /* menuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menuViewController.swift; sourceTree = "<group>"; };
 		50C847432CE045A3006EEA0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		50C847452CE045A9006EEA0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50C847482CE045A9006EEA0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50C8474A2CE045A9006EEA0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50C847502CE04BCB006EEA0F /* quizzViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizzViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +60,9 @@
 			children = (
 				50C8473C2CE045A3006EEA0F /* AppDelegate.swift */,
 				50C8473E2CE045A3006EEA0F /* SceneDelegate.swift */,
-				50C847402CE045A3006EEA0F /* ViewController.swift */,
+				50C847402CE045A3006EEA0F /* menuViewController.swift */,
 				50C847422CE045A3006EEA0F /* Main.storyboard */,
+				50C847502CE04BCB006EEA0F /* quizzViewController.swift */,
 				50C847452CE045A9006EEA0F /* Assets.xcassets */,
 				50C847472CE045A9006EEA0F /* LaunchScreen.storyboard */,
 				50C8474A2CE045A9006EEA0F /* Info.plist */,
@@ -138,8 +141,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				50C847412CE045A3006EEA0F /* ViewController.swift in Sources */,
+				50C847412CE045A3006EEA0F /* menuViewController.swift in Sources */,
 				50C8473D2CE045A3006EEA0F /* AppDelegate.swift in Sources */,
+				50C847512CE04BCB006EEA0F /* quizzViewController.swift in Sources */,
 				50C8473F2CE045A3006EEA0F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
