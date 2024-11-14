@@ -7,16 +7,63 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		502FC0A02CE65BB300F5254E /* Y2meta.app - [Lyrics] Thằng Điên - JUSTATEE × PHƯƠNG LY (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0992CE65BB300F5254E /* Y2meta.app - [Lyrics] Thằng Điên - JUSTATEE × PHƯƠNG LY (128 kbps).mp3 */; };
+		502FC0A12CE65BB300F5254E /* Y2meta.app - LẠ LÙNG _ Vũ. (Original) (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC09A2CE65BB300F5254E /* Y2meta.app - LẠ LÙNG _ Vũ. (Original) (128 kbps).mp3 */; };
+		502FC0A22CE65BB300F5254E /* Y2meta.app - BUỒN HAY VUI - VSOUL x MCK x Obito x Ronboogz x Boyzed (Official Audio) (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC09B2CE65BB300F5254E /* Y2meta.app - BUỒN HAY VUI - VSOUL x MCK x Obito x Ronboogz x Boyzed (Official Audio) (128 kbps).mp3 */; };
+		502FC0A32CE65BB300F5254E /* Y2meta.app - Đừng Làm Trái Tim Anh Đau - Sơn Tùng MTP _ Lyrics Video _ (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC09C2CE65BB300F5254E /* Y2meta.app - Đừng Làm Trái Tim Anh Đau - Sơn Tùng MTP _ Lyrics Video _ (128 kbps).mp3 */; };
+		502FC0A42CE65BB300F5254E /* Y2meta.app - [Lyrics] Nàng Thơ - Hoàng Dũng (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC09D2CE65BB300F5254E /* Y2meta.app - [Lyrics] Nàng Thơ - Hoàng Dũng (128 kbps).mp3 */; };
+		502FC0A52CE65BB300F5254E /* Y2meta.app - HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) [Official Lyric Video] (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC09E2CE65BB300F5254E /* Y2meta.app - HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) [Official Lyric Video] (128 kbps).mp3 */; };
+		502FC0A62CE65BB300F5254E /* Y2meta.app - AMEE x B RAY - Ex’s Hate Me (Part 2) _ Lyric Video (from album “dreAMEE”) (128 kbps).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC09F2CE65BB300F5254E /* Y2meta.app - AMEE x B RAY - Ex’s Hate Me (Part 2) _ Lyric Video (from album “dreAMEE”) (128 kbps).mp3 */; };
+		502FC0AF2CE672D100F5254E /* Love story.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0A82CE672D100F5254E /* Love story.mp3 */; };
+		502FC0B02CE672D100F5254E /* Baby.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0A92CE672D100F5254E /* Baby.mp3 */; };
+		502FC0B12CE672D100F5254E /* The lazy song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0AA2CE672D100F5254E /* The lazy song.mp3 */; };
+		502FC0B22CE672D100F5254E /* Espresso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0AB2CE672D100F5254E /* Espresso.mp3 */; };
+		502FC0B32CE672D100F5254E /* Lemon tree.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0AC2CE672D100F5254E /* Lemon tree.mp3 */; };
+		502FC0B42CE672D100F5254E /* Last christmas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0AD2CE672D100F5254E /* Last christmas.mp3 */; };
+		502FC0B52CE672D100F5254E /* Shape of you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0AE2CE672D100F5254E /* Shape of you.mp3 */; };
+		502FC0BE2CE67FC400F5254E /* Car outside.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0B72CE67FC300F5254E /* Car outside.mp3 */; };
+		502FC0BF2CE67FC400F5254E /* Boy for the weekend.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0B82CE67FC300F5254E /* Boy for the weekend.mp3 */; };
+		502FC0C02CE67FC400F5254E /* Nobody gets me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0B92CE67FC300F5254E /* Nobody gets me.mp3 */; };
+		502FC0C12CE67FC400F5254E /* Thinking out loud.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0BA2CE67FC300F5254E /* Thinking out loud.mp3 */; };
+		502FC0C22CE67FC400F5254E /* Die with a smile.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0BB2CE67FC300F5254E /* Die with a smile.mp3 */; };
+		502FC0C32CE67FC400F5254E /* The cutest pair.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0BC2CE67FC300F5254E /* The cutest pair.mp3 */; };
+		502FC0C42CE67FC400F5254E /* Happier.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 502FC0BD2CE67FC300F5254E /* Happier.mp3 */; };
 		50C8473D2CE045A3006EEA0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C8473C2CE045A3006EEA0F /* AppDelegate.swift */; };
 		50C8473F2CE045A3006EEA0F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C8473E2CE045A3006EEA0F /* SceneDelegate.swift */; };
 		50C847412CE045A3006EEA0F /* menuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847402CE045A3006EEA0F /* menuViewController.swift */; };
 		50C847442CE045A3006EEA0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50C847422CE045A3006EEA0F /* Main.storyboard */; };
 		50C847462CE045A9006EEA0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50C847452CE045A9006EEA0F /* Assets.xcassets */; };
 		50C847492CE045A9006EEA0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50C847472CE045A9006EEA0F /* LaunchScreen.storyboard */; };
-		50C847512CE04BCB006EEA0F /* quizzViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847502CE04BCB006EEA0F /* quizzViewController.swift */; };
+		50C847572CE06502006EEA0F /* englishEasyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847562CE06502006EEA0F /* englishEasyViewController.swift */; };
+		50C847592CE06529006EEA0F /* englishHardViewControlelr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847582CE06529006EEA0F /* englishHardViewControlelr.swift */; };
+		50C8475B2CE06F47006EEA0F /* vietnamEasyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C8475A2CE06F47006EEA0F /* vietnamEasyViewController.swift */; };
+		50C8475F2CE07241006EEA0F /* vietnamTEST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C8475E2CE07241006EEA0F /* vietnamTEST.swift */; };
+		50C847612CE07682006EEA0F /* vietnamHardViewCOntroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847602CE07682006EEA0F /* vietnamHardViewCOntroller.swift */; };
+		50C847632CE3B869006EEA0F /* displayFavoriteSong.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50C847622CE3B869006EEA0F /* displayFavoriteSong.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		502FC0992CE65BB300F5254E /* Y2meta.app - [Lyrics] Thằng Điên - JUSTATEE × PHƯƠNG LY (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - [Lyrics] Thằng Điên - JUSTATEE × PHƯƠNG LY (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC09A2CE65BB300F5254E /* Y2meta.app - LẠ LÙNG _ Vũ. (Original) (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - LẠ LÙNG _ Vũ. (Original) (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC09B2CE65BB300F5254E /* Y2meta.app - BUỒN HAY VUI - VSOUL x MCK x Obito x Ronboogz x Boyzed (Official Audio) (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - BUỒN HAY VUI - VSOUL x MCK x Obito x Ronboogz x Boyzed (Official Audio) (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC09C2CE65BB300F5254E /* Y2meta.app - Đừng Làm Trái Tim Anh Đau - Sơn Tùng MTP _ Lyrics Video _ (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - Đừng Làm Trái Tim Anh Đau - Sơn Tùng MTP _ Lyrics Video _ (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC09D2CE65BB300F5254E /* Y2meta.app - [Lyrics] Nàng Thơ - Hoàng Dũng (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - [Lyrics] Nàng Thơ - Hoàng Dũng (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC09E2CE65BB300F5254E /* Y2meta.app - HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) [Official Lyric Video] (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) [Official Lyric Video] (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC09F2CE65BB300F5254E /* Y2meta.app - AMEE x B RAY - Ex’s Hate Me (Part 2) _ Lyric Video (from album “dreAMEE”) (128 kbps).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Y2meta.app - AMEE x B RAY - Ex’s Hate Me (Part 2) _ Lyric Video (from album “dreAMEE”) (128 kbps).mp3"; sourceTree = "<group>"; };
+		502FC0A82CE672D100F5254E /* Love story.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Love story.mp3"; sourceTree = "<group>"; };
+		502FC0A92CE672D100F5254E /* Baby.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Baby.mp3; sourceTree = "<group>"; };
+		502FC0AA2CE672D100F5254E /* The lazy song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The lazy song.mp3"; sourceTree = "<group>"; };
+		502FC0AB2CE672D100F5254E /* Espresso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Espresso.mp3; sourceTree = "<group>"; };
+		502FC0AC2CE672D100F5254E /* Lemon tree.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lemon tree.mp3"; sourceTree = "<group>"; };
+		502FC0AD2CE672D100F5254E /* Last christmas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Last christmas.mp3"; sourceTree = "<group>"; };
+		502FC0AE2CE672D100F5254E /* Shape of you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shape of you.mp3"; sourceTree = "<group>"; };
+		502FC0B72CE67FC300F5254E /* Car outside.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Car outside.mp3"; sourceTree = "<group>"; };
+		502FC0B82CE67FC300F5254E /* Boy for the weekend.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Boy for the weekend.mp3"; sourceTree = "<group>"; };
+		502FC0B92CE67FC300F5254E /* Nobody gets me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Nobody gets me.mp3"; sourceTree = "<group>"; };
+		502FC0BA2CE67FC300F5254E /* Thinking out loud.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Thinking out loud.mp3"; sourceTree = "<group>"; };
+		502FC0BB2CE67FC300F5254E /* Die with a smile.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Die with a smile.mp3"; sourceTree = "<group>"; };
+		502FC0BC2CE67FC300F5254E /* The cutest pair.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The cutest pair.mp3"; sourceTree = "<group>"; };
+		502FC0BD2CE67FC300F5254E /* Happier.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Happier.mp3; sourceTree = "<group>"; };
 		50C847392CE045A3006EEA0F /* songSmash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = songSmash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50C8473C2CE045A3006EEA0F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		50C8473E2CE045A3006EEA0F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -25,7 +72,12 @@
 		50C847452CE045A9006EEA0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50C847482CE045A9006EEA0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50C8474A2CE045A9006EEA0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		50C847502CE04BCB006EEA0F /* quizzViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizzViewController.swift; sourceTree = "<group>"; };
+		50C847562CE06502006EEA0F /* englishEasyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = englishEasyViewController.swift; sourceTree = "<group>"; };
+		50C847582CE06529006EEA0F /* englishHardViewControlelr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = englishHardViewControlelr.swift; sourceTree = "<group>"; };
+		50C8475A2CE06F47006EEA0F /* vietnamEasyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vietnamEasyViewController.swift; sourceTree = "<group>"; };
+		50C8475E2CE07241006EEA0F /* vietnamTEST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vietnamTEST.swift; sourceTree = "<group>"; };
+		50C847602CE07682006EEA0F /* vietnamHardViewCOntroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vietnamHardViewCOntroller.swift; sourceTree = "<group>"; };
+		50C847622CE3B869006EEA0F /* displayFavoriteSong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = displayFavoriteSong.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +91,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		502FC0982CE65BB300F5254E /* vn-easy */ = {
+			isa = PBXGroup;
+			children = (
+				502FC0992CE65BB300F5254E /* Y2meta.app - [Lyrics] Thằng Điên - JUSTATEE × PHƯƠNG LY (128 kbps).mp3 */,
+				502FC09A2CE65BB300F5254E /* Y2meta.app - LẠ LÙNG _ Vũ. (Original) (128 kbps).mp3 */,
+				502FC09B2CE65BB300F5254E /* Y2meta.app - BUỒN HAY VUI - VSOUL x MCK x Obito x Ronboogz x Boyzed (Official Audio) (128 kbps).mp3 */,
+				502FC09C2CE65BB300F5254E /* Y2meta.app - Đừng Làm Trái Tim Anh Đau - Sơn Tùng MTP _ Lyrics Video _ (128 kbps).mp3 */,
+				502FC09D2CE65BB300F5254E /* Y2meta.app - [Lyrics] Nàng Thơ - Hoàng Dũng (128 kbps).mp3 */,
+				502FC09E2CE65BB300F5254E /* Y2meta.app - HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) [Official Lyric Video] (128 kbps).mp3 */,
+				502FC09F2CE65BB300F5254E /* Y2meta.app - AMEE x B RAY - Ex’s Hate Me (Part 2) _ Lyric Video (from album “dreAMEE”) (128 kbps).mp3 */,
+			);
+			path = "vn-easy";
+			sourceTree = "<group>";
+		};
+		502FC0A72CE672D100F5254E /* eng-easy */ = {
+			isa = PBXGroup;
+			children = (
+				502FC0A82CE672D100F5254E /* Love story.mp3 */,
+				502FC0A92CE672D100F5254E /* Baby.mp3 */,
+				502FC0AA2CE672D100F5254E /* The lazy song.mp3 */,
+				502FC0AB2CE672D100F5254E /* Espresso.mp3 */,
+				502FC0AC2CE672D100F5254E /* Lemon tree.mp3 */,
+				502FC0AD2CE672D100F5254E /* Last christmas.mp3 */,
+				502FC0AE2CE672D100F5254E /* Shape of you.mp3 */,
+			);
+			path = "eng-easy";
+			sourceTree = "<group>";
+		};
+		502FC0B62CE67FC300F5254E /* eng-hard */ = {
+			isa = PBXGroup;
+			children = (
+				502FC0B72CE67FC300F5254E /* Car outside.mp3 */,
+				502FC0B82CE67FC300F5254E /* Boy for the weekend.mp3 */,
+				502FC0B92CE67FC300F5254E /* Nobody gets me.mp3 */,
+				502FC0BA2CE67FC300F5254E /* Thinking out loud.mp3 */,
+				502FC0BB2CE67FC300F5254E /* Die with a smile.mp3 */,
+				502FC0BC2CE67FC300F5254E /* The cutest pair.mp3 */,
+				502FC0BD2CE67FC300F5254E /* Happier.mp3 */,
+			);
+			path = "eng-hard";
+			sourceTree = "<group>";
+		};
 		50C847302CE045A3006EEA0F = {
 			isa = PBXGroup;
 			children = (
@@ -58,16 +152,32 @@
 		50C8473B2CE045A3006EEA0F /* songSmash */ = {
 			isa = PBXGroup;
 			children = (
+				50C847642CE65A2A006EEA0F /* music */,
 				50C8473C2CE045A3006EEA0F /* AppDelegate.swift */,
 				50C8473E2CE045A3006EEA0F /* SceneDelegate.swift */,
 				50C847402CE045A3006EEA0F /* menuViewController.swift */,
 				50C847422CE045A3006EEA0F /* Main.storyboard */,
-				50C847502CE04BCB006EEA0F /* quizzViewController.swift */,
+				50C847622CE3B869006EEA0F /* displayFavoriteSong.swift */,
+				50C847602CE07682006EEA0F /* vietnamHardViewCOntroller.swift */,
+				50C8475A2CE06F47006EEA0F /* vietnamEasyViewController.swift */,
+				50C847562CE06502006EEA0F /* englishEasyViewController.swift */,
+				50C847582CE06529006EEA0F /* englishHardViewControlelr.swift */,
 				50C847452CE045A9006EEA0F /* Assets.xcassets */,
 				50C847472CE045A9006EEA0F /* LaunchScreen.storyboard */,
 				50C8474A2CE045A9006EEA0F /* Info.plist */,
+				50C8475E2CE07241006EEA0F /* vietnamTEST.swift */,
 			);
 			path = songSmash;
+			sourceTree = "<group>";
+		};
+		50C847642CE65A2A006EEA0F /* music */ = {
+			isa = PBXGroup;
+			children = (
+				502FC0B62CE67FC300F5254E /* eng-hard */,
+				502FC0A72CE672D100F5254E /* eng-easy */,
+				502FC0982CE65BB300F5254E /* vn-easy */,
+			);
+			path = music;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,9 +238,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				502FC0B02CE672D100F5254E /* Baby.mp3 in Resources */,
+				502FC0B52CE672D100F5254E /* Shape of you.mp3 in Resources */,
 				50C847492CE045A9006EEA0F /* LaunchScreen.storyboard in Resources */,
+				502FC0B42CE672D100F5254E /* Last christmas.mp3 in Resources */,
+				502FC0A32CE65BB300F5254E /* Y2meta.app - Đừng Làm Trái Tim Anh Đau - Sơn Tùng MTP _ Lyrics Video _ (128 kbps).mp3 in Resources */,
+				502FC0A12CE65BB300F5254E /* Y2meta.app - LẠ LÙNG _ Vũ. (Original) (128 kbps).mp3 in Resources */,
+				502FC0A42CE65BB300F5254E /* Y2meta.app - [Lyrics] Nàng Thơ - Hoàng Dũng (128 kbps).mp3 in Resources */,
+				502FC0BF2CE67FC400F5254E /* Boy for the weekend.mp3 in Resources */,
+				502FC0C02CE67FC400F5254E /* Nobody gets me.mp3 in Resources */,
+				502FC0A02CE65BB300F5254E /* Y2meta.app - [Lyrics] Thằng Điên - JUSTATEE × PHƯƠNG LY (128 kbps).mp3 in Resources */,
+				502FC0B22CE672D100F5254E /* Espresso.mp3 in Resources */,
+				502FC0A52CE65BB300F5254E /* Y2meta.app - HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) [Official Lyric Video] (128 kbps).mp3 in Resources */,
+				502FC0AF2CE672D100F5254E /* Love story.mp3 in Resources */,
 				50C847462CE045A9006EEA0F /* Assets.xcassets in Resources */,
+				502FC0BE2CE67FC400F5254E /* Car outside.mp3 in Resources */,
+				502FC0C12CE67FC400F5254E /* Thinking out loud.mp3 in Resources */,
+				502FC0A22CE65BB300F5254E /* Y2meta.app - BUỒN HAY VUI - VSOUL x MCK x Obito x Ronboogz x Boyzed (Official Audio) (128 kbps).mp3 in Resources */,
+				502FC0C22CE67FC400F5254E /* Die with a smile.mp3 in Resources */,
+				502FC0C42CE67FC400F5254E /* Happier.mp3 in Resources */,
+				502FC0B12CE672D100F5254E /* The lazy song.mp3 in Resources */,
+				502FC0A62CE65BB300F5254E /* Y2meta.app - AMEE x B RAY - Ex’s Hate Me (Part 2) _ Lyric Video (from album “dreAMEE”) (128 kbps).mp3 in Resources */,
+				502FC0C32CE67FC400F5254E /* The cutest pair.mp3 in Resources */,
 				50C847442CE045A3006EEA0F /* Main.storyboard in Resources */,
+				502FC0B32CE672D100F5254E /* Lemon tree.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,10 +272,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50C8475F2CE07241006EEA0F /* vietnamTEST.swift in Sources */,
+				50C847612CE07682006EEA0F /* vietnamHardViewCOntroller.swift in Sources */,
+				50C847572CE06502006EEA0F /* englishEasyViewController.swift in Sources */,
+				50C847592CE06529006EEA0F /* englishHardViewControlelr.swift in Sources */,
 				50C847412CE045A3006EEA0F /* menuViewController.swift in Sources */,
 				50C8473D2CE045A3006EEA0F /* AppDelegate.swift in Sources */,
-				50C847512CE04BCB006EEA0F /* quizzViewController.swift in Sources */,
+				50C8475B2CE06F47006EEA0F /* vietnamEasyViewController.swift in Sources */,
 				50C8473F2CE045A3006EEA0F /* SceneDelegate.swift in Sources */,
+				50C847632CE3B869006EEA0F /* displayFavoriteSong.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -53,12 +53,44 @@ class menuViewController: UIViewController {
         }
     }
     @IBAction func playButtonTapped(_sender: UIButton) {
-        if selectedMusicType.isEmpty || selectedMode.isEmpty {
-            let alert = UIAlertController(title: "Chọn thiếu", message: "Vui lòng chọn cả thể loại nhạc và cấp đọ chơi", preferredStyle: .alert)
-            alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
-            self.present(alert, animated: true, completion: nil)
-        } else {
+        var segueIdentifier = ""
+
+            if selectedMode == "Easy" && selectedMusicType == "Vietnamese" {
+                segueIdentifier = "toVietnameseEasy"
+            } else if selectedMode == "Hard" && selectedMusicType == "Vietnamese" {
+                segueIdentifier = "toVietnameseHard"
+            } else if selectedMode == "Easy" && selectedMusicType == "US-UK" {
+                segueIdentifier = "toUSUKEasy"
+            } else if selectedMode == "Hard" && selectedMusicType == "US-UK" {
+                segueIdentifier = "toUSUKHard"
+            }
             
+            performSegue(withIdentifier: segueIdentifier, sender: self)
+        }
+    
+    
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "toVietnameseEasy" {
+            if let destinationVC = segue.destination as? vietnamEasyViewController {
+                destinationVC.selectedMode = "Easy"
+                destinationVC.selectedMusicType = "Vietnamese"
+            }
+        } else if segue.identifier == "toVietnameseHard" {
+            if let destinationVC = segue.destination as? vietnamHardViewController {
+                destinationVC.selectedMode = "Hard"
+                destinationVC.selectedMusicType = "Vietnamese"
+            }
+        } else if segue.identifier == "toUSUKEasy" {
+            if let destinationVC = segue.destination as? englishEasyViewController {
+                destinationVC.selectedMode = "Easy"
+                destinationVC.selectedMusicType = "English"
+            }
+        } else if segue.identifier == "toUSUKHard" {
+            if let destinationVC = segue.destination as? englishHardViewController {
+                destinationVC.selectedMode = "Hard"
+                destinationVC.selectedMusicType = "English"
+            }
         }
     }
 }
