@@ -54,6 +54,7 @@ class englishEasyViewController: UIViewController {
     
     func loadCurrentQuestion1() {
         let currentQuestion = questions[currentQuestion1Index]
+        quesLabel2.text = currentQuestion1Index.description
         let songFile = currentQuestion.songFile
         
         if let songURL = Bundle.main.url(forResource: songFile, withExtension: nil) {
